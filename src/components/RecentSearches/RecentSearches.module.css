@@ -1,0 +1,40 @@
+.RecentSearches {
+	width: 200px;
+	padding: 20px;
+}
+
+.Title {
+	margin: 0;
+}
+
+.List {
+	list-style-type: none;
+	margin-left: 0;
+	padding-inline-start: 0;
+}
+
+.Item {
+	margin-bottom: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 5px 10px;
+}
+
+.RemoveItem {
+	border: none;
+	background: none;
+	color: red;
+}
+
+.RemoveItem:hover {
+	cursor: pointer;
+}
+
+.ReuseItem {
+	border: none;
+	background: none;
+}
+
+.ReuseItem:hover {
+	cursor: pointer;
+}

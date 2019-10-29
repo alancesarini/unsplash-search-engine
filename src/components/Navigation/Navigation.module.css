@@ -1,0 +1,10 @@
+.NavButton {
+	background: none;
+	color: blue;
+	border: none;
+	vertical-align: top;
+}
+
+.NavText {
+	font-size: 20px;
+}
